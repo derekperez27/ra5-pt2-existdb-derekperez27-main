@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hits year="2026">
+    <song id="1">
+        <title>Midnight Echo</title>
+        <artist>Luna Waves</artist>
+        <genre>Pop</genre>
+        <duration>214</duration>
+        <country>Spain</country>
+    </song>
+
+    <song id="2">
+        <title>Electric Dreams</title>
+        <artist>Neon Pulse</artist>
+        <genre>Electronic</genre>
+        <duration>198</duration>
+        <country>UK</country>
+    </song>
+
+    <song id="3">
+        <title>Golden Sky</title>
+        <artist>The Firelights</artist>
+        <genre>Rock</genre>
+        <duration>245</duration>
+        <country>USA</country>
+    </song>
+
+    <song id="4">
+        <title>Corazón Digital</title>
+        <artist>Marina Sol</artist>
+        <genre>Latin Pop</genre>
+        <duration>230</duration>
+        <country>Spain</country>
+    </song>
+
+    <song id="5">
+        <title>Last Summer Night</title>
+        <artist>Blue Horizon</artist>
+        <genre>Indie</genre>
+        <duration>221</duration>
+        <country>France</country>
+    </song>
+</hits>
